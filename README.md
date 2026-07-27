@@ -51,25 +51,25 @@ This project aims to answer key business questions such as:
 
 ## Executive Overview
 
-![Executive Overview](Dashboard/Executive_Overview.png)
+![Executive Overview](Dashboard/Executive_Overview.jpg)
 
 ---
 
 ## Restaurant Intelligence
 
-![Restaurant Intelligence](Dashboard/Restaurant_Intelligence.png)
+![Restaurant Intelligence](Dashboard/Restaurant_Intelligence.jpg)
 
 ---
 
 ## Delivery Performance Analytics
 
-![Delivery Performance](Dashboard/Delivery_Performance_Analytics.png)
+![Delivery Performance](Dashboard/Delivery_Performance_Analytics.jpg)
 
 ---
 
 ## Customer & Cuisine Insights
 
-![Customer & Cuisine Insights](Dashboard/Customer_Cuisine_Insights.png)
+![Customer & Cuisine Insights](Dashboard/Customer_Cuisine_Insights.jpg)
 
 ### Executive Overview
 
@@ -147,3 +147,29 @@ Documentation/
 Dataset/
 SQL/
 Assets/
+```
+---
+
+## 👨‍💻 Author
+
+**Dommeti David James Paull**
+
+**Aspiring Data Analyst**
+
+📍 India
+
+### Connect with me
+
+- GitHub: https://github.com/Dommeti-David
+- Email: dommeti.david@gmail.com
+- LinkedIn: *(We'll add this once your LinkedIn profile is ready.)*
+4. :contentReference[oaicite:4]{index=4}.
+
+  ---
+
+# 📥 Project Files
+
+- 📊 Power BI Dashboard (`Dashboard/Restaurant Intelligence & Delivery Performance Analytics.pbix`)
+- 🗄️ SQL Scripts (`SQL/`)
+- 📄 Project Documentation (`Documentation/`)
+- 📂 Dataset (`Dataset/`)
