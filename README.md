@@ -45,6 +45,32 @@ This project aims to answer key business questions such as:
 
 ## 📊 Dashboard Pages
 
+---
+
+# 📸 Dashboard Preview
+
+## Executive Overview
+
+![Executive Overview](Dashboard/Executive_Overview.png)
+
+---
+
+## Restaurant Intelligence
+
+![Restaurant Intelligence](Dashboard/Restaurant_Intelligence.png)
+
+---
+
+## Delivery Performance Analytics
+
+![Delivery Performance](Dashboard/Delivery_Performance_Analytics.png)
+
+---
+
+## Customer & Cuisine Insights
+
+![Customer & Cuisine Insights](Dashboard/Customer_Cuisine_Insights.png)
+
 ### Executive Overview
 
 Business KPIs including:
